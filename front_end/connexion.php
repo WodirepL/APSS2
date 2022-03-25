@@ -2,7 +2,7 @@
 //  Ce fichier comporte les afichages de la page de connexion pour un utilisateur quand il a choisi 
 // son type, passé en $_GET
 // comme tout fichier d'affichage, il comporte des réutilisations de la définition du header et du footer
--->
+//-->
 <!DOCTYPE html>
 <html lang="en">
 
